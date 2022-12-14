@@ -34,7 +34,7 @@ $
 * Interpreter was written with C language
 * C files are compiled using `gcc 4.8.4`
 * C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
+* Compiled on Ubuntu 20.04 LTS
 
 ## Usage
 To compile all files:
@@ -107,6 +107,7 @@ L3: unknown instruction pcx
 When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Authors
-* :  - [GitHub](https://github.com/)
-* :  - [GitHub](https://github.com/)
+
+* **Janet Odemerho**: [Gmail] (jannyoddie@gmail.com) - [GitHub] (https://github.com/JanetOdemerho)
+* **Abayomi Akinfemiwa**: [Gmail] (possibleolayode5344@gmail.com) - [GitHub] (https://github.com/olayodepossible/)
 
