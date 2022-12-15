@@ -64,9 +64,6 @@ $ ./monty file.m
 $
 ```
 
-## Features
-### Opcodes
-`monty` executes the following opcodes:
 
 | Opcode | Description |
 | -------- | ----------- |
@@ -106,5 +103,5 @@ L3: unknown instruction pcx
 When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Authors
-* Akinfemiwa Abayomi: - [GitHub](https://github.com/olayodepossible)
-* : - [GitHub](https://github.com/luischaparroc)
+* Akinfemiwa Abayomi: [GitHub](https://github.com/olayodepossible)
+* Janet Odemerho: [GitHub] (https://github.com/JanetOdemerho)
